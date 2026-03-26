@@ -1,38 +1,51 @@
-# Hi there, I'm Omar! 👋
+<h1 align="center">Hi, I'm Omar! 👋</h1>
 
-### ⚡ Frontend Developer & Creative Coder
-I am a passionate **Frontend Developer** currently building my foundation in web technologies. I love bridging the gap between clean design and interactive functionality. My current focus is mastering modern frameworks and exploring the intersection of web development and browser-based gaming.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ0bm81ZzZ6eHpsbmx6eHh6eHh6eHh6eHh6eHh6eHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 
----
+<p align="center">
+  <strong>Frontend Developer | UI/UX Enthusiast | Creative Coder</strong>
+</p>
 
-### 🛠️ My Tech Stack
-
-**Languages & Core Web:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Currently Learning:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  I’m a passionate developer focused on building clean, interactive web experiences. Currently, I'm bridging the gap between design and logic through <b>JavaScript</b> and <b>Modern CSS</b>.
+</p>
 
 ---
 
-### 🚀 What I'm Working On
-- 🛠️ **SkillSwap:** A real-world project focused on connecting people through shared knowledge.
-- 🎮 **JS Gaming:** Experimenting with logic and DOM manipulation to create interactive browser experiences.
-- 🎨 **UI/UX:** Refining my styling skills to create high-performance, responsive layouts.
+### 🚀 Skills & Tools
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=My%20Tech%20Stack&fontSize=20&animation=fadeIn" width="100%">
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma" /></a>
+</p>
+
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <b>✨ Currently Learning: React.js | Advanced JS Logic | UI Design Systems | Browser-based Game Dev ✨</b>
+</marquee>
 
 ---
 
-### 📈 GitHub Stats
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+### 🧪 What I'm Building
+* **SkillSwap:** A platform for knowledge exchange with a focus on seamless UX.
+* **JS Playground:** Developing interactive components and mini-games to master DOM manipulation.
+* **Portfolio:** Crafting a professional space to showcase my photography and web projects.
 
 ---
 
-### 🤝 Let's Connect!
-- 📸 [Photography Portfolio](YOUR_LINK_HERE)
-- 💼 [LinkedIn](YOUR_LINK_HERE)
+### 🎨 Design Philosophy
+> "Simplicity is the ultimate sophistication." 
+> I believe in writing clean code and creating interfaces that are as intuitive as they are beautiful.
 
-*"Code is like humor. When you have to explain it, it’s bad."*
+---
+
+### 🌐 Let's Connect
+<p align="left">
+<a href="YOUR_LINK_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="YOUR_LINK_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated_static_borders.gif" width="100%">
