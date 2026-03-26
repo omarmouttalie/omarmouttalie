@@ -36,10 +36,7 @@
 
 ---
 
-### 🎨 Design Philosophy
-> "Simplicity is the ultimate sophistication." 
-> I believe in writing clean code and creating interfaces that are as intuitive as they are beautiful.
-
+*"Code is like humor. When you have to explain it, it’s bad."*
 ---
 
 ### 🌐 Let's Connect
