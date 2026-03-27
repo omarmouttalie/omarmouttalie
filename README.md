@@ -1,50 +1,15 @@
-<h1 align="center">Hi, I'm Omar! 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff00&center=true&vCenter=true&width=435&lines=👋+Welcome+to+my+GitHub;Omar+Yeager+-+Frontend+Dev;+🔥+Building+Interactive+Web+Apps" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ0bm81ZzZ6eHpsbmx6eHh6eHh6eHh6eHh6eHh6eHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
-
-<p align="center">
-  <strong>Frontend Developer | UI/UX Enthusiast | Creative Coder</strong>
-</p>
-
-<p align="center">
-  I’m a passionate developer focused on building clean, interactive web experiences. Currently, I'm bridging the gap between design and logic through <b>JavaScript</b> and <b>Modern CSS</b>.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/omaryeager/omaryeager/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/omaryeager/omaryeager/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/omaryeager/omaryeager/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-### 🚀 Skills & Tools
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=My%20Tech%20Stack&fontSize=20&animation=fadeIn" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma" /></a>
-</p>
-
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <b>✨ Currently Learning: React.js | Advanced JS Logic | UI Design Systems | Browser-based Game Dev ✨</b>
-</marquee>
-
----
-
-### 🧪 What I'm Building
-* **SkillSwap:** A platform for knowledge exchange with a focus on seamless UX.
-* **JS Playground:** Developing interactive components and mini-games to master DOM manipulation.
-* **Portfolio:** Crafting a professional space to showcase my photography and web projects.
-
----
-
-*"Code is like humor. When you have to explain it, it’s bad."*
----
-*"ᴛʜᴇʀᴇ'ꜱ ᴀʟᴡᴀʏꜱ ʀᴏᴏᴍ ꜰᴏʀ ɪᴍᴘʀᴏᴠᴇᴍᴇɴᴛ"*
-
-
-### 🌐 Let's Connect
-<p align="left">
-<a href="YOUR_LINK_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="YOUR_LINK_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated_static_borders.gif" width="100%">
+### 🌐 **TECHNICAL PROFILE**
