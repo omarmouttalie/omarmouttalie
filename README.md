@@ -1,43 +1,32 @@
-<!-- HEADER BANNER -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ██████╗ ███████╗██╗   ██╗    ███╗   ███╗ ██████╗ ██████╗ ███████╗  ║
-║  ██╔══██╗██╔════╝██║   ██║    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝  ║
-║  ██║  ██║█████╗  ██║   ██║    ██╔████╔██║██║   ██║██║  ██║█████╗    ║
-║  ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║╚██╔╝██║██║   ██║██║  ██║██╔══╝    ║
-║  ██████╔╝███████╗ ╚████╔╝     ██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗  ║
-║  ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Initializing+dev+mode...+%E2%96%88;%3E+Frontend+Developer+in+Progress;%3E+Building+Real+%26+Interactive+Web+Apps;%3E+CSS+Wizard+%7C+JS+Explorer+%7C+UI+Crafter;%3E+Loading+next+level...)](https://git.io/typing-svg)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+Initializing+dev+mode...;%3E+Frontend+Developer+in+Progress;%3E+Building+Real+%26+Interactive+Web+Apps;%3E+CSS+Wizard+%7C+JS+Explorer+%7C+UI+Crafter;%3E+Loading+next+level...+%E2%96%88)](https://git.io/typing-svg)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39ff14&style=flat-square&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39ff14&style=flat-square&label=👁+VISITORS)
 
 </div>
 
 ---
 
-<!-- ABOUT SECTION -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<!-- ABOUT -->
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```bash
-$ whoami
-```
-```
-> Frontend Developer | UI Enthusiast | Web Crafter
-> Location     : The Terminal 🖥️
-> Status       : [ BUILDING... ████████░░ 80% ]
-> Mission      : Craft real, interactive & beautiful web apps
-> Vibe         : Retro aesthetics + clean code
+### `$ whoami`
+
+```yaml
+name     : Your Name Here
+role     : Frontend Developer in Progress
+location : The Terminal 🖥️
+status   : BUILDING... ████████░░ 80%
+mission  : Craft real, interactive & beautiful web apps
+vibe     : Retro aesthetics + clean code
 ```
 
-```bash
-$ cat about.txt
-```
+### `$ cat about.txt`
+
 ```
 I'm a frontend-focused developer with a strong eye for design
 and a passion for building things that look great and work even
@@ -52,39 +41,33 @@ my craft one commit at a time.
 
 ---
 
-<!-- SKILLS SECTION -->
+### `> SKILL_TREE.exe`
 
-## `> SKILL_TREE.exe`
+**🌐 Frontend Core**
 
-```
-╔══════════════════════════════════════════════╗
-║           [ FRONTEND CORE ]                  ║
-╠══════════════════════════════════════════════╣
-║  HTML     ██████████████████░░  90%  🟩 SOLID  ║
-║  CSS      ████████████████████  95%  🟩 STRONG ║
-║  JS       ██████████████░░░░░░  70%  🟨 GROWING║
-╚══════════════════════════════════════════════╝
+| Skill | Level | Progress |
+|-------|-------|----------|
+| HTML | 🟩 Solid | `██████████████████░░` 90% |
+| CSS | 🟩 Strong | `████████████████████` 95% |
+| JavaScript | 🟨 Growing | `██████████████░░░░░░` 70% |
 
-╔══════════════════════════════════════════════╗
-║           [ BACKEND / DATA ]                 ║
-╠══════════════════════════════════════════════╣
-║  SQL      ████████░░░░░░░░░░░░  40%  🟧 BASIC  ║
-║  PHP      ██████░░░░░░░░░░░░░░  30%  🟧 BASIC  ║
-╚══════════════════════════════════════════════╝
+**🗄️ Backend & Data**
 
-╔══════════════════════════════════════════════╗
-║           [ DESIGN & UX ]                    ║
-╠══════════════════════════════════════════════╣
-║  Figma    ████████████░░░░░░░░  60%  🟩 COMFY  ║
-║  UI/UX    ██████████░░░░░░░░░░  50%  🟨 AWARE  ║
-╚══════════════════════════════════════════════╝
-```
+| Skill | Level | Progress |
+|-------|-------|----------|
+| SQL | 🟧 Basic | `████████░░░░░░░░░░░░` 40% |
+| PHP | 🟧 Basic | `██████░░░░░░░░░░░░░░` 30% |
+
+**🎨 Design & UX**
+
+| Skill | Level | Progress |
+|-------|-------|----------|
+| Figma | 🟩 Comfy | `████████████░░░░░░░░` 60% |
+| UI/UX | 🟨 Aware | `██████████░░░░░░░░░░` 50% |
 
 ---
 
-<!-- TECH STACK -->
-
-## `> TECH_STACK --list`
+### `> TECH_STACK --list`
 
 <div align="center">
 
@@ -92,19 +75,17 @@ my craft one commit at a time.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-<!-- CURRENT FOCUS -->
-
-## `> CURRENT_FOCUS.log`
+### `> CURRENT_FOCUS.log`
 
 ```javascript
 const devMode = {
@@ -118,24 +99,20 @@ const devMode = {
 
 ---
 
-<!-- PROJECTS -->
+### `> ls ~/projects`
 
-## `> ls ~/projects`
-
-```
-drwxr-xr-x  SkillSwap/          [IN PROGRESS]  Real-world skill exchange web app
-drwxr-xr-x  UI-Components/      [BUILT]        Interactive JavaScript components
-drwxr-xr-x  Layout-Pages/       [BUILT]        Responsive HTML/CSS UI pages
-drwxr-xr-x  ???/                [COMING SOON]  Next build loading...
+```bash
+drwxr-xr-x  SkillSwap/       [IN PROGRESS]  Real-world skill exchange web app
+drwxr-xr-x  UI-Components/   [BUILT]        Interactive JavaScript components
+drwxr-xr-x  Layout-Pages/    [BUILT]        Responsive HTML/CSS UI pages
+drwxr-xr-x  ???/             [COMING SOON]  Next build loading...
 ```
 
 > 💡 *More projects dropping soon. Watch this space.*
 
 ---
 
-<!-- AREAS TO IMPROVE -->
-
-## `> grep -i "TODO" devlog.txt`
+### `> grep -i "TODO" devlog.txt`
 
 ```diff
 + [PRIORITY] Write cleaner, more maintainable code
@@ -149,9 +126,7 @@ drwxr-xr-x  ???/                [COMING SOON]  Next build loading...
 
 ---
 
-<!-- GITHUB STATS -->
-
-## `> github --stats`
+### `> github --stats`
 
 <div align="center">
 
@@ -165,38 +140,21 @@ drwxr-xr-x  ???/                [COMING SOON]  Next build loading...
 
 ---
 
-<!-- CONNECT -->
-
-## `> ping --connect`
-
-```
-[ OPEN TO CONNECT ]
-
-I'm always down to collaborate, learn, and build cool things.
-Hit me up if you want to work on something interesting together.
-```
+### `> ping --connect`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
 ---
 
-<!-- FOOTER -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║   "First make it work. Then make it right.           ║
-║    Then make it fast. Then make it beautiful."       ║
-║                                         — Dev Motto  ║
-╚══════════════════════════════════════════════════════╝
-```
+*"First make it work. Then make it right. Then make it fast. Then make it beautiful."*
 
 ```bash
 $ shutdown --message "Thanks for visiting. Come back soon." 👾
