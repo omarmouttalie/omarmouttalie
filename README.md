@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ0bm81ZzZ6eHpsbmx6eHh6eHh6eHh6eHh6eHh6eHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/alliance-dao-alliancedao-OLPQ6z2hlHmwFc4Hso)" width="400">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ0bm81ZzZ6eHpsbmx6eHh6eHh6eHh6eHh6eHh6eHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif(https://giphy.com/gifs/alliance-dao-alliancedao-OLPQ6z2hlHmwFc4Hso)](https://giphy.com/gifs/alliance-dao-alliancedao-OLPQ6z2hlHmwFc4Hso)" width="400">
 </p>
 
 <p align="center">
