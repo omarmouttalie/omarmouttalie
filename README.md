@@ -4,9 +4,15 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ0bm81ZzZ6eHpsbmx6eHh6eHh6eHh6eHh6eHh6eHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif(https://giphy.com/gifs/alliance-dao-alliancedao-OLPQ6z2hlHmwFc4Hso)](https://giphy.com/gifs/alliance-dao-alliancedao-OLPQ6z2hlHmwFc4Hso)" width="400">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="400" style="border-radius: 20px;">
+  
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=26&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Hi+There,+I+am+Omar;Hi+There,+I+am+Frontend+Developer;Hi+There,+I+am+UI/UX+Enthusiast;Hi+There,+I+am+Creative+Coder" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <strong>Frontend Developer | UI/UX Enthusiast | Creative Coder</strong>
