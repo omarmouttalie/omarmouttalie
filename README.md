@@ -36,10 +36,11 @@
 
 ---
 
-*"Code is like humor. When you have to explain it, it’s bad."*
----
-*"ᴛʜᴇʀᴇ'ꜱ ᴀʟᴡᴀʏꜱ ʀᴏᴏᴍ ꜰᴏʀ ɪᴍᴘʀᴏᴠᴇᴍᴇɴᴛ"*
+### 🎨 Design Philosophy
+> "Simplicity is the ultimate sophistication." 
+> I believe in writing clean code and creating interfaces that are as intuitive as they are beautiful.
 
+---
 
 ### 🌐 Let's Connect
 <p align="left">
