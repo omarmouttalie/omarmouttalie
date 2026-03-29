@@ -4,9 +4,7 @@
   </a>
 </div>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c6ff&height=20&section=footer" width="100%"/>
-<br>
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="400" style="border-radius: 20px;">
