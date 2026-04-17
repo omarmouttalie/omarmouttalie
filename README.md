@@ -39,7 +39,6 @@
 
 ### 🧪 What I'm Building
 * **SkillSwap:** A platform for knowledge exchange with a focus on seamless UX.
-* **JS Playground:** Developing interactive components and mini-games to master DOM manipulation.
 * **Portfolio:** Crafting a professional space to showcase my photography and web projects.
 
 ---
@@ -51,7 +50,7 @@
 
 ### 🌐 Let's Connect
 <p align="left">
-<a href="YOUR_LINK_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omar-mouttalie-a36982353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="YOUR_LINK_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
