@@ -32,16 +32,11 @@
 </p>
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
-  <b>✨ Currently Learning: React.js | Advanced JS Logic | UI Design Systems | Browser-based Game Dev ✨</b>
+  <b> Currently Learning: React.js | JS Logic | UI Design Systems | </b>
 </marquee>
 
 ---
 
-### 🧪 What I'm Building
-* **SkillSwap:** A platform for knowledge exchange with a focus on seamless UX.
-* **Portfolio:** Crafting a professional space to showcase my photography and web projects.
-
----
 
 *"Code is like humor. When you have to explain it, it’s bad."*
 ---
