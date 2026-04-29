@@ -36,7 +36,5 @@ Here are some projects you can find in my repositories:
 
 ## Contact
 
-* LinkedIn: [https://github.com/yourusername](https://www.linkedin.com/in/omar-mouttalie-05a842406/)
-* Email: omarmouttalie@gmail.com
+* LinkedIn:(https://www.linkedin.com/in/omar-mouttalie-05a842406/)
 
-Thanks for visiting my profile!
